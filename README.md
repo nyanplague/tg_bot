@@ -18,7 +18,7 @@ run main.py
 ```
 ## Database scheme
 
-![db_schema]("images/db.png")
+![db_schema](images/db.png)
 
 ## Technologies Used
 - **[Aiogram 3](https://docs.aiogram.dev/)** — modern and fast Telegram bot framework built on `asyncio`.
